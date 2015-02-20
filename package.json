@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "name": "mixpanel-helper",
+  "description": "mixpanel helper",
+  "keywords": [],
+  "private": true,
+  "directories": {
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "main": "./lib/npm.js",
+  "bin": "./bin/npm-cli.js",
+  "dependencies": {
+    "MD5": "^1.2.1"
+  }
+}
