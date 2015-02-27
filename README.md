@@ -1,0 +1,3 @@
+# MixpanelAPI-query-builder
+
+node mxpanel.js <URL> <API SECRET> key=value...
